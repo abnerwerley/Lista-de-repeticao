@@ -6,7 +6,7 @@ public class Ex1 {
 
 	public static void main(String[] args) {
 		// 1- "Informar todos os números entre 1000 e 1999 que quando dividodos por
-		// 11obtemos o resto 5"
+		// 11 obtemos o resto 5"
 
 		double numero, limite;
 
